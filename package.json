@@ -1,6 +1,6 @@
 {
-    "name": "yanice",
-    "version": "3.3.0",
+    "name": "yennyce",
+    "version": "3.3.3",
     "description": "Yet another incremental command executor",
     "engines": {
         "node": ">=16"
@@ -35,14 +35,14 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/abuob/yanice.git"
+        "url": "https://github.com/yennybr/yennyce"
     },
     "author": "abuob",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/abuob/yanice/issues"
+        "url": "https://github.com/yennybr/yennyce/issues"
     },
-    "homepage": "https://github.com/abuob/yanice#readme",
+    "homepage": "https://github.com/yennybr/yennyce#readme",
     "dependencies": {
         "ajv": "^8.12.0",
         "minimatch": "^9.0.3"
