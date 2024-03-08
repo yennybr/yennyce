@@ -7,7 +7,7 @@
     },
     "main": "dist/index.js",
     "bin": {
-        "yanice": "dist/bin.js"
+        "yennyce": "dist/bin.js"
     },
     "types": "dist/index.d.ts",
     "files": [
@@ -56,7 +56,7 @@
         "@types/node": "^20.10.5",
         "@typescript-eslint/eslint-plugin": "^6.16.0",
         "@typescript-eslint/parser": "^6.16.0",
-        "@yanice/import-boundaries": "file:packages/import-boundaries",
+        "@yennyce/import-boundaries": "file:packages/import-boundaries",
         "chai": "^4.3.10",
         "eslint": "^8.56.0",
         "eslint-plugin-simple-import-sort": "^10.0.0",
@@ -64,6 +64,6 @@
         "prettier": "^3.1.1",
         "ts-node": "^10.9.2",
         "typescript": "5.3.3",
-        "yanice": "file:."
+        "yennyce": "file:."
     }
 }
